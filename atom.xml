@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xdddci.github.io</id>
+    <title>XDDDI</title>
+    <updated>2023-12-24T12:59:51.486Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xdddci.github.io"/>
+    <link rel="self" href="https://xdddci.github.io/atom.xml"/>
+    <subtitle>60/38499/654</subtitle>
+    <logo>https://xdddci.github.io/images/avatar.png</logo>
+    <icon>https://xdddci.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, XDDDI</rights>
+    <entry>
+        <title type="html"><![CDATA[1%、100%、200%]]></title>
+        <id>https://xdddci.github.io/post/6soHo9OIE/</id>
+        <link href="https://xdddci.github.io/post/6soHo9OIE/">
+        </link>
+        <updated>2023-12-11T15:26:39.000Z</updated>
+    </entry>
+</feed>
