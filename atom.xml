@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xdddci.github.io</id>
+    <title>skkifo</title>
+    <updated>2024-02-12T16:39:39.066Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xdddci.github.io"/>
+    <link rel="self" href="https://xdddci.github.io/atom.xml"/>
+    <logo>https://xdddci.github.io/images/avatar.png</logo>
+    <icon>https://xdddci.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, skkifo</rights>
+    <entry>
+        <title type="html"><![CDATA[17+30+14=61]]></title>
+        <id>https://xdddci.github.io/post/bDgDyKFms/</id>
+        <link href="https://xdddci.github.io/post/bDgDyKFms/">
+        </link>
+        <updated>2024-02-12T16:35:03.000Z</updated>
+    </entry>
+</feed>
